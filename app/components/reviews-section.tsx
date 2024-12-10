@@ -98,7 +98,7 @@ export default function ReviewsSection() {
                   ))}
                 </div>
               </div>
-              <p className="text-gray-700 italic">"{reviews[currentReview].text}"</p>
+              <p className="text-gray-700 italic">&quot;{reviews[currentReview].text}&quot;</p>
             </CardContent>
           </Card>
           <Button variant="ghost" onClick={nextReview} className="ml-4">

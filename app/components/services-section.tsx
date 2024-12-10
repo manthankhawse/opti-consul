@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/app/components/ui/card"
-import { Beaker, Droplet, Flame, FlaskRoundIcon as Flask, Sandwich, PaintBucket, SprayCanIcon as Spray } from 'lucide-react'
+import { Beaker, Droplet, FlaskRoundIcon as Flask, Sandwich, PaintBucket, SprayCanIcon as Spray } from 'lucide-react'
 
 export default function ServicesSection() {
   const services = [
