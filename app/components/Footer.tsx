@@ -10,8 +10,8 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-semibold mb-4">ChemOptima Consulting</h3>
-            <p className="mb-4">Providing optimization and compliance solutions for the chemical industry since 2005.</p>
+            <h3 className="text-xl font-semibold mb-4">New-Gen Consulting</h3>
+            <p className="mb-4">Providing optimization and compliance solutions for the chemical industry.</p>
             <div className="flex space-x-4">
               <Link href="https://facebook.com" target="_blank" rel="noopener noreferrer">
                 <Facebook className="h-6 w-6 hover:text-blue-400" />
@@ -43,7 +43,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2" />
-                <a href="mailto:info@chemoptima.com" className="hover:text-white">info@chemoptima.com</a>
+                <a href="mailto:info@chemoptima.com" className="hover:text-white">info@newgen.com</a>
               </li>
               <li className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2" />
@@ -65,7 +65,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center">
-          <p>&copy; {new Date().getFullYear()} ChemOptima Consulting. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} New-Gen Consulting. All rights reserved.</p>
         </div>
       </div>
     </footer>
