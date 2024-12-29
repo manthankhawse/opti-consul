@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-semibold mb-4">New-Gen Consulting</h3>
+            <h3 className="text-xl font-semibold mb-4">New-Gen Solutions Consulting</h3>
             <p className="mb-4">Providing optimization and compliance solutions for the chemical industry.</p>
             <div className="flex space-x-4">
               <Link href="https://facebook.com" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center">
-          <p>&copy; {new Date().getFullYear()} New-Gen Consulting. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} New-Gen Solutions Consulting. All rights reserved.</p>
         </div>
       </div>
     </footer>
