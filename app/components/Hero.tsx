@@ -9,7 +9,7 @@ function Hero() {
             {/* left */}
             <div className="w-4/12 flex flex-col h-full gap-8 justify-center items-center">
                 <p className="text-5xl font-bold">Simplifying Compliance. Optimizing Performance.</p>
-                <p className="text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem suscipit, et eos, numquam facere hic quaerat sed totam amet illo impedit voluptates deleniti. Corporis, ad! Nemo cum laudantium consequuntur, ipsum alias minus fuga voluptates sequi nesciunt soluta debitis iure. Amet temporibus, quaerat neque quidem quibusdam quis sunt voluptatum? Animi dolorem perferendis assumenda alias odio reiciendis voluptatibus, iure amet. Beatae nobis esse nesciunt quaerat dolores?
+                <p className="text-gray-600">Your Energy Success is Our Top Priority: Trust New-Gen Solutions for Expert Guidance, Innovative Solutions, and Unparalleled Support.
                 </p>
                 <div className="flex w-full gap-4">
                     <Button>Learn More</Button>
